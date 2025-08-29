@@ -1,2 +1,7 @@
 # Skillora-MultiCloud-Devops
-Maintain codes during MultiCloud DevOps Course
+Maintain codes during the MultiCloud DevOps Course
+
+GIT
+
+Terraform
+
